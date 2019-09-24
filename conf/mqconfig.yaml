@@ -1,0 +1,6 @@
+conn:
+ host: 127.0.0.1
+ pass: guest
+ port: 5672
+ user: guest
+ vhost: /
